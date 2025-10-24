@@ -1,0 +1,8 @@
+# Site settings
+title: Lyrics Page
+
+# Build settings
+markdown: kramdown
+
+collections:
+ - lyrics
